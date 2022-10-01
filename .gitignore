@@ -1,0 +1,7 @@
+make_patch.ipynb
+*.jpg
+*.JPEG
+*.png
+*.csv
+*.pyc
+dataset
